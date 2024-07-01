@@ -6,7 +6,7 @@ public class VerificadorNumeroConta {
         Scanner scanner = new Scanner(System.in);
 
         try {
-            System.out.println("Insira o número de sua conta:");
+            System.out.println("Insira o número de sua conta:1010");
             String numeroConta = scanner.nextLine();
 
             // TODO: Chamar o método que veritica se o número da conta é valido
